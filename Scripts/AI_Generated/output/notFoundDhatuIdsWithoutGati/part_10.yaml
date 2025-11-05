@@ -16,7 +16,7 @@
   "shloka_num": "37"
   "shloka_text": "अकर्मकास्त्वात्मनेऽमी सम्बध्नाति मिलत्यपि । समवैति व्यतिसृजत्येवं सचत उच्यति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "not found"
 "परिसमूहति":
   "form": "परिसमूहति"
   "dhatu_id": "Not Found"
@@ -28,7 +28,7 @@
   "shloka_num": "41"
   "shloka_text": "सम्मार्जयति सम्मार्ष्टि तथा परिसमूहति । समूहते च सम्मार्ग उपदेग्ध्युपलिम्पति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "not found"
 "छर्दते":
   "form": "छर्दते"
   "dhatu_id": "Not Found"
@@ -40,7 +40,7 @@
   "shloka_num": "43"
   "shloka_text": "सन्धुक्षणे ज्वलयति च्छर्दते च्छर्दयत्यपि । पाके श्रीणाति पचतीत्यात्मने श्रपयत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found dhatu छर्द id_10.0078"
 "राध्यते":
   "form": "राध्यते"
   "dhatu_id": "Not Found"
@@ -52,10 +52,10 @@
   "shloka_num": "44"
   "shloka_text": "रन्धयत्यपि विक्लेदयति साधयतीति च । श्राति श्रायति विक्लिद्यत्यपि राध्यति रध्यते ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu राध् id_04.0077"
 "क्वथ्यते":
   "form": "क्वथ्यते"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.0981"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "वैश्यचेष्टावर्गः"
@@ -63,11 +63,11 @@
   "artha": "पाके"
   "shloka_num": "45"
   "shloka_text": "पच्यते क्वथ्यते चैते पाके स्युः कर्मकर्तृके । ऋञ्जते भर्जते भ्राष्ट्रे तूपभृज्जति भृज्जते ॥"
-  "resolved": "false"
+  "resolved": "true"
   "comment": ""
 "पच्यते":
   "form": "पच्यते"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.1151"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "वैश्यचेष्टावर्गः"
@@ -75,7 +75,7 @@
   "artha": "पाके"
   "shloka_num": "45"
   "shloka_text": "पच्यते क्वथ्यते चैते पाके स्युः कर्मकर्तृके । ऋञ्जते भर्जते भ्राष्ट्रे तूपभृज्जति भृज्जते ॥"
-  "resolved": "false"
+  "resolved": "true"
   "comment": ""
 "शूलाकरोति":
   "form": "शूलाकरोति"
@@ -88,7 +88,7 @@
   "shloka_num": "46"
   "shloka_text": "शूलाकरोत्यात्मनेऽपि शूलपाके पदं मतम्‌ । द्रवीकृतौ लीनयति लयति द्रावयत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu शूला id_01.0604"
 "शूलाकुरुते":
   "form": "शूलाकुरुते"
   "dhatu_id": "Not Found"
@@ -100,7 +100,7 @@
   "shloka_num": "46"
   "shloka_text": "शूलाकरोत्यात्मनेऽपि शूलपाके पदं मतम्‌ । द्रवीकृतौ लीनयति लयति द्रावयत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu शूला id_01.0604"
 "वूयते":
   "form": "वूयते"
   "dhatu_id": "Not Found"
@@ -112,7 +112,7 @@
   "shloka_num": "1"
   "shloka_text": "वयते वयति व्यूतावूयतेऽथ विषीव्यति । स्यूतौ निषीव्यति तथा परिषीव्यति सीव्यति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu वयति id_01.1161"
 "तनयति":
   "form": "तनयति"
   "dhatu_id": "Not Found"
@@ -124,7 +124,7 @@
   "shloka_num": "2"
   "shloka_text": "तक्ष्णोति तक्षति तनयति त्वक्षति तक्षणे । तनूकरोत्यात्मनेऽपि परिवासयतीति षट्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu तन id_08.0001, 10.0377"
 "तनूकरोति":
   "form": "तनूकरोति"
   "dhatu_id": "Not Found"
@@ -136,7 +136,7 @@
   "shloka_num": "2"
   "shloka_text": "तक्ष्णोति तक्षति तनयति त्वक्षति तक्षणे । तनूकरोत्यात्मनेऽपि परिवासयतीति षट्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu तन id_08.0001, 10.0377"
 "तनूकुरुते":
   "form": "तनूकुरुते"
   "dhatu_id": "Not Found"
@@ -148,7 +148,7 @@
   "shloka_num": "2"
   "shloka_text": "तक्ष्णोति तक्षति तनयति त्वक्षति तक्षणे । तनूकरोत्यात्मनेऽपि परिवासयतीति षट्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu तन id_08.0001, 10.0377"
 "सङ्‍क्ष्णुते":
   "form": "सङ्‍क्ष्णुते"
   "dhatu_id": "Not Found"
@@ -160,7 +160,7 @@
   "shloka_num": "3"
   "shloka_text": "उत्तेजयति तीक्ष्णत्वे सङ्क्ष्णुते क्ष्णौति निश्यति । निशिनोति निशीशांसत्यात्मनेऽपि मतं द्वयम्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatus सङ id_01.0044, सङ्क् id_01.0047"
 "त्रोटति":
   "form": "त्रोटति"
   "dhatu_id": "Not Found"
@@ -172,10 +172,10 @@
   "shloka_num": "6"
   "shloka_text": "त्रोटति त्रुट्यति च्छेदे च्छिद्यते कर्मकर्तृके । भिन्ते विदारयति च भिनत्ति द्यति मुण्डति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu त्रोट id_06.0102, 10.0221"
 "छिद्यते":
   "form": "छिद्यते"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "07.0003"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -183,11 +183,11 @@
   "artha": "छेदे"
   "shloka_num": "6"
   "shloka_text": "त्रोटति त्रुट्यति च्छेदे च्छिद्यते कर्मकर्तृके । भिन्ते विदारयति च भिनत्ति द्यति मुण्डति ॥"
-  "resolved": "false"
+  "resolved": "true"
   "comment": ""
 "दन्दह्यते":
   "form": "दन्दह्यते"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.1146"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -195,11 +195,11 @@
   "artha": "गर्हिते"
   "shloka_num": "9"
   "shloka_text": "दाहे कूटयति प्लोषत्यमी तत्र तु गर्हिते । दन्दह्यते दन्दहीति दन्दग्धीति पदत्रयम्‌ ॥"
-  "resolved": "false"
-  "comment": ""
+  "resolved": "true"
+  "comment": "as dhatu दह्"
 "दन्दहीति":
   "form": "दन्दहीति"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.1146"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -207,11 +207,11 @@
   "artha": "गर्हिते"
   "shloka_num": "9"
   "shloka_text": "दाहे कूटयति प्लोषत्यमी तत्र तु गर्हिते । दन्दह्यते दन्दहीति दन्दग्धीति पदत्रयम्‌ ॥"
-  "resolved": "false"
-  "comment": ""
+  "resolved": "true"
+  "comment": "as dhatu दह्"
 "दन्दग्धि":
   "form": "दन्दग्धि"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.1146"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -219,8 +219,8 @@
   "artha": "गर्हिते"
   "shloka_num": "9"
   "shloka_text": "दाहे कूटयति प्लोषत्यमी तत्र तु गर्हिते । दन्दह्यते दन्दहीति दन्दग्धीति पदत्रयम्‌ ॥"
-  "resolved": "false"
-  "comment": ""
+  "resolved": "true"
+  "comment": "as dhatu दह्"
 "चुरण्यति":
   "form": "चुरण्यति"
   "dhatu_id": "Not Found"
@@ -232,10 +232,10 @@
   "shloka_num": "10"
   "shloka_text": "ग्रोचति स्तेनयति च चुरण्यति च रुण्टति । स्तेये चोरयति ग्लोचयति कोजति खोजति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found dhatu चुर id_10.0001"
 "जर्हर्ति":
   "form": "जर्हर्ति"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "01.1046"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -243,8 +243,8 @@
   "artha": "बलाद्‍धृतौ"
   "shloka_num": "11"
   "shloka_text": "मुष्णाति लुण्टयति च मूषत्यपहरत्यदः। आत्मनेऽप्यास्कन्दतीति जर्हर्तीति बलाद्धृतौ ॥"
-  "resolved": "false"
-  "comment": ""
+  "resolved": "true"
+  "comment": "found as dhatu हृ id_06.0016"
 "मङ्‍घते":
   "form": "मङ्‍घते"
   "dhatu_id": "Not Found"
@@ -256,7 +256,7 @@
   "shloka_num": "12"
   "shloka_text": "प्रसहत्यात्मनेऽप्येष हठतीति बलात्कृतौ । धूर्तक्रियायां शठति द्राघते मङ्घते त्रयम्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu मङ् id_01.0094"
 "निष्कुलाकरोति":
   "form": "निष्कुलाकरोति"
   "dhatu_id": "Not Found"
@@ -268,7 +268,7 @@
   "shloka_num": "13"
   "shloka_text": "निष्कुष्णाति च निष्कर्ष निष्कर्षति च तूलति । स्यान्निष्कुलाकरोत्येतदात्मने चाऽत्र सव्यथे ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu निष्क id_10.1209"
 "निष्कुलाकुरुते":
   "form": "निष्कुलाकुरुते"
   "dhatu_id": "Not Found"
@@ -280,7 +280,7 @@
   "shloka_num": "13"
   "shloka_text": "निष्कुष्णाति च निष्कर्ष निष्कर्षति च तूलति । स्यान्निष्कुलाकरोत्येतदात्मने चाऽत्र सव्यथे ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu निष्क् id_10.1209"
 "निष्पत्राकरोति":
   "form": "निष्पत्राकरोति"
   "dhatu_id": "Not Found"
@@ -292,7 +292,7 @@
   "shloka_num": "14"
   "shloka_text": "डाज्‌ निष्पत्रासपत्राभ्यां करोति कुरुते पर । सन्दानयति बध्नाति मूर्वत्यन्दति कीलति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu निष्पत् id_01.0608"
 "निष्पत्राकुरुते":
   "form": "निष्पत्राकुरुते"
   "dhatu_id": "Not Found"
@@ -304,7 +304,7 @@
   "shloka_num": "14"
   "shloka_text": "डाज्‌ निष्पत्रासपत्राभ्यां करोति कुरुते पर । सन्दानयति बध्नाति मूर्वत्यन्दति कीलति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu निष्पत् id_01.0608"
 "सपत्राकरोति":
   "form": "सपत्राकरोति"
   "dhatu_id": "Not Found"
@@ -316,7 +316,7 @@
   "shloka_num": "14"
   "shloka_text": "डाज्‌ निष्पत्रासपत्राभ्यां करोति कुरुते पर । सन्दानयति बध्नाति मूर्वत्यन्दति कीलति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu सपत् id_01.1466"
 "सपत्राकुरुते":
   "form": "सपत्राकुरुते"
   "dhatu_id": "Not Found"
@@ -328,7 +328,7 @@
   "shloka_num": "14"
   "shloka_text": "डाज्‌ निष्पत्रासपत्राभ्यां करोति कुरुते पर । सन्दानयति बध्नाति मूर्वत्यन्दति कीलति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu सपत् id_01.1466"
 "सन्दानयति":
   "form": "सन्दानयति"
   "dhatu_id": "Not Found"
@@ -340,10 +340,10 @@
   "shloka_num": "14"
   "shloka_text": "डाज्‌ निष्पत्रासपत्राभ्यां करोति कुरुते पर । सन्दानयति बध्नाति मूर्वत्यन्दति कीलति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu सन्द id_01.0686, 01.0677"
 "सिनोति[bw]":
   "form": "सिनोति[bw]"
-  "dhatu_id": "Not Found"
+  "dhatu_id": "05.0002"
   "gati": ""
   "kanda": "द्वितीयकाण्डः"
   "varga": "शूद्रचेष्टावर्गः"
@@ -351,7 +351,7 @@
   "artha": "बन्धे"
   "shloka_num": "16"
   "shloka_text": "काञ्चते ग्रन्थयति च सिनाति च सिनोति च। संयच्छत्यात्मने षट्‌ स्युर्नह्यत्यपि दधाति च ॥"
-  "resolved": "false"
+  "resolved": "true"
   "comment": ""
 "अघयति":
   "form": "अघयति"
@@ -364,7 +364,7 @@
   "shloka_num": "19"
   "shloka_text": "स्तुभ्नाति चैव स्कुभ्नाति स्कुभ्नोत्येतानि षोडश । साहसिक्ये प्रकुरुते दुःखयत्यघयत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu अघ id_01.0115"
 "कष्टायते":
   "form": "कष्टायते"
   "dhatu_id": "Not Found"
@@ -376,7 +376,7 @@
   "shloka_num": "20"
   "shloka_text": "कष्टायते दुष्कृतेऽमी प्रत्यवैति तु दुष्यति । विघ्ने विहन्त्यन्तरेति प्रत्यूहत्यात्मनेऽप्यदः ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu कष्ट id_01.0385"
 "प्रत्यवैति":
   "form": "प्रत्यवैति"
   "dhatu_id": "Not Found"
@@ -388,7 +388,7 @@
   "shloka_num": "20"
   "shloka_text": "कष्टायते दुष्कृतेऽमी प्रत्यवैति तु दुष्यति । विघ्ने विहन्त्यन्तरेति प्रत्यूहत्यात्मनेऽप्यदः ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu प्रत्य id_08.0010"
 "अन्तरेति":
   "form": "अन्तरेति"
   "dhatu_id": "Not Found"
@@ -400,7 +400,7 @@
   "shloka_num": "20"
   "shloka_text": "कष्टायते दुष्कृतेऽमी प्रत्यवैति तु दुष्यति । विघ्ने विहन्त्यन्तरेति प्रत्यूहत्यात्मनेऽप्यदः ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu अन्त id01.0063"
 "विघ्नयति":
   "form": "विघ्नयति"
   "dhatu_id": "Not Found"
@@ -412,7 +412,7 @@
   "shloka_num": "21"
   "shloka_text": "विघ्नयत्यन्तरयति विच्छिन्ते विच्छिनत्ति च। सन्ताने सन्तनोतीति निर्वहत्यात्मने द्वयम्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu विघ्न id_01.0695"
 "अन्तरयति":
   "form": "अन्तरयति"
   "dhatu_id": "Not Found"
@@ -424,7 +424,7 @@
   "shloka_num": "21"
   "shloka_text": "विघ्नयत्यन्तरयति विच्छिन्ते विच्छिनत्ति च। सन्ताने सन्तनोतीति निर्वहत्यात्मने द्वयम्‌ ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu अन्त id_01.0063"
 "व्युच्छते":
   "form": "व्युच्छते"
   "dhatu_id": "Not Found"
@@ -436,7 +436,7 @@
   "shloka_num": "2"
   "shloka_text": "विभाति व्युच्छते व्युष्टे प्रभाति विविशत्यपि । श्विन्दते श्वेतते त्रीणि स्युः शुक्लत्वेऽवदायति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatus व्युष् id_04.0008, व्यु id_04.0114"
 "लोहितायति":
   "form": "लोहितायति"
   "dhatu_id": "Not Found"
@@ -448,7 +448,7 @@
   "shloka_num": "3"
   "shloka_text": "रज्यति त्रीणि रजति लोहितायति चाऽऽत्मने । शोणतीति च रञ्जिम्नि श्यामत्वे श्यामलायते ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "not found"
 "लोहितायते":
   "form": "लोहितायते"
   "dhatu_id": "Not Found"
@@ -460,7 +460,7 @@
   "shloka_num": "3"
   "shloka_text": "रज्यति त्रीणि रजति लोहितायति चाऽऽत्मने । शोणतीति च रञ्जिम्नि श्यामत्वे श्यामलायते ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "not found"
 "श्यामलायते":
   "form": "श्यामलायते"
   "dhatu_id": "Not Found"
@@ -472,7 +472,7 @@
   "shloka_num": "3"
   "shloka_text": "रज्यति त्रीणि रजति लोहितायति चाऽऽत्मने । शोणतीति च रञ्जिम्नि श्यामत्वे श्यामलायते ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu श्याम id_04.0040"
 "नीलायते":
   "form": "नीलायते"
   "dhatu_id": "Not Found"
@@ -484,7 +484,7 @@
   "shloka_num": "4"
   "shloka_text": "नीलायते नीलति च तथा श्यामायते पदम्‌ । बिन्दत्यवयवे भिन्दत्यवयौति सटत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu नीला id_01.0600"
 "श्यामायते":
   "form": "श्यामायते"
   "dhatu_id": "Not Found"
@@ -496,7 +496,7 @@
   "shloka_num": "4"
   "shloka_text": "नीलायते नीलति च तथा श्यामायते पदम्‌ । बिन्दत्यवयवे भिन्दत्यवयौति सटत्यपि ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatu श्याम id_04.0040"
 "अश्नोति":
   "form": "अश्नोति"
   "dhatu_id": "Not Found"
@@ -508,4 +508,4 @@
   "shloka_num": "6"
   "shloka_text": "श्लोकते हुण्डते पिण्डयति पूलयतीत्यपि । शण्डतेऽथो मुस्तयति स्त्यायत्यश्नोति चाऽक्षति ॥"
   "resolved": "false"
-  "comment": ""
+  "comment": "found as dhatus अश् id_05.0020, 09.0059 & सङ् id_01.0290,01.0607"
