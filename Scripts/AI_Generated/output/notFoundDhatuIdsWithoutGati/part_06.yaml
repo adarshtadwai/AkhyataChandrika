@@ -2,570 +2,605 @@
 # Format: Each entry shows the verb form with its multiple dhatu_ids
 # Manually edit this file to select the correct dhatu_id for each case
 # After editing, run the backport script to sync changes back to original YAML files
-# ENTRIES TO CORRECT: 47
+# ENTRIES TO CORRECT: 46
 # This is part 6 of 10 - Assigned for proofreading
 
-"स्वाहाकरोति":
-  "form": "स्वाहाकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "true"
-  "comment": ""
-"स्वाहाकुरुते":
-  "form": "स्वाहाकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "false"
-  "comment": ""
-"वौषट्करोति":
-  "form": "वौषट्करोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "false"
-  "comment": ""
-"वौषट्कुरुते":
-  "form": "वौषट्कुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "false"
-  "comment": ""
-"वषट्करोति":
-  "form": "वषट्करोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "false"
-  "comment": ""
-"वषट्कुरुते":
-  "form": "वषट्कुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "हविर्दाने"
-  "shloka_num": "16"
-  "shloka_text": "स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति तर्पति ॥"
-  "resolved": "false"
-  "comment": ""
-"धिन्वति":
-  "form": "धिन्वति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "तर्पणे"
-  "shloka_num": "17"
-  "shloka_text": "पृणाति प्रीणयति च जिन्वत्यपि च हिन्वति । धिनोति धिन्वति ध्रायतीत्यादीनि च तर्पणे ॥"
-  "resolved": "false"
-  "comment": ""
-"कुणायति":
-  "form": "कुणायति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "आमन्त्रणे"
-  "shloka_num": "18"
-  "shloka_text": "केतयत्यामन्त्रयते निमन्त्रयत इत्यपि । आमन्त्रणे ग्रामयति कुणयत्यपि पञ्चकम्‌ ॥"
-  "resolved": "false"
-  "comment": ""
-"यामयति":
-  "form": "यामयति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "परिवेषणे"
-  "shloka_num": "20"
-  "shloka_text": "परिवेवेष्टि परिवेविष्टे यामयति त्रयम्‌ । आदयत्यात्मनेऽप्येतद्‌ भोजयत्यादि भोजने ॥"
-  "resolved": "false"
-  "comment": ""
-"मृडयति":
-  "form": "मृडयति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "तोषणे"
-  "shloka_num": "23"
-  "shloka_text": "पृडत्येवं मदयति मृडयत्यादि तोषणे । इज्याऽऽरम्भे दीक्षते च जपतीति जपे तथा ॥"
-  "resolved": "false"
-  "comment": ""
-"जञ्जप्यते":
-  "form": "जञ्जप्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कुत्सितेजपे"
-  "shloka_num": "24"
-  "shloka_text": "जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते व्रतयत्यपि ॥"
-  "resolved": "false"
-  "comment": ""
-"जञ्जप्ति":
-  "form": "जञ्जप्ति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कुत्सितेजपे"
-  "shloka_num": "24"
-  "shloka_text": "जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते व्रतयत्यपि ॥"
-  "resolved": "false"
-  "comment": ""
-"जञ्जपीति":
-  "form": "जञ्जपीति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कुत्सितेजपे"
-  "shloka_num": "24"
-  "shloka_text": "जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते व्रतयत्यपि ॥"
-  "resolved": "false"
-  "comment": ""
-"लङ्‍घते":
-  "form": "लङ्‍घते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "वैश्यचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "शोषे"
-  "shloka_num": "7"
-  "shloka_text": "आश्यायते शुण्ठयति लङ्घतेऽप्यथ वर्षति । उनत्ति शीकते शर्धत्यपि मर्धति सिञ्चति ॥"
-  "resolved": "false"
-  "comment": ""
-"व्रतयति":
-  "form": "व्रतयति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "अभुक्तौ"
-  "shloka_num": "24"
-  "shloka_text": "जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते व्रतयत्यपि ॥"
-  "resolved": "false"
-  "comment": ""
-"तपस्यति":
-  "form": "तपस्यति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "तपःकृतौ"
-  "shloka_num": "25"
-  "shloka_text": "तपस्यति श्राम्यति च तप्यते च तपःकृतौ । मुण्डति मुण्डयति च मौण्ड्ये वापयतीति च ॥"
-  "resolved": "false"
-  "comment": ""
-"मद्राकरोति":
-  "form": "मद्राकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "मौण्ड्ये"
-  "shloka_num": "26"
-  "shloka_text": "मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी ॥"
-  "resolved": "false"
-  "comment": ""
-"मद्राकुरुते":
-  "form": "मद्राकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "मौण्ड्ये"
-  "shloka_num": "26"
-  "shloka_text": "मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी ॥"
-  "resolved": "false"
-  "comment": ""
-"भद्राकरोति":
-  "form": "भद्राकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "मौण्ड्ये"
-  "shloka_num": "26"
-  "shloka_text": "मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी ॥"
-  "resolved": "false"
-  "comment": ""
-"भद्राकुरुते":
-  "form": "भद्राकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "मौण्ड्ये"
-  "shloka_num": "26"
-  "shloka_text": "मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी ॥"
-  "resolved": "false"
-  "comment": ""
-"विरमतिविरमते":
-  "form": "विरमतिविरमते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "वैराग्ये"
-  "shloka_num": "27"
-  "shloka_text": "स्युर्विरज्यत्युपरमत्यात्मने विरमत्यमी । उपशाम्यति वैराग्ये मोक्षते च मुमुक्षते ॥"
-  "resolved": "false"
-  "comment": ""
-"सन्न्यस्यति":
-  "form": "सन्न्यस्यति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "सन्न्यासे"
-  "shloka_num": "28"
-  "shloka_text": "परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये मुच्यते चाऽपवृज्यते ॥"
-  "resolved": "false"
-  "comment": ""
-"सन्न्यस्यते":
-  "form": "सन्न्यस्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "सन्न्यासे"
-  "shloka_num": "28"
-  "shloka_text": "परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये मुच्यते चाऽपवृज्यते ॥"
-  "resolved": "false"
-  "comment": ""
-"ब्रह्मीभवति":
-  "form": "ब्रह्मीभवति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कैवल्ये"
-  "shloka_num": "28"
-  "shloka_text": "परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये मुच्यते चाऽपवृज्यते ॥"
-  "resolved": "false"
-  "comment": ""
-"मुच्यते":
-  "form": "मुच्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कैवल्ये"
-  "shloka_num": "28"
-  "shloka_text": "परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये मुच्यते चाऽपवृज्यते ॥"
-  "resolved": "false"
-  "comment": ""
-"अपवृज्यते":
-  "form": "अपवृज्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "ब्रह्मचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "कैवल्ये"
-  "shloka_num": "28"
-  "shloka_text": "परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये मुच्यते चाऽपवृज्यते ॥"
-  "resolved": "false"
-  "comment": ""
-"वशयति":
-  "form": "वशयति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "वशीकृतौ"
-  "shloka_num": "4"
-  "shloka_text": "आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ ॥"
-  "resolved": "false"
-  "comment": ""
-"वशीकरोति":
-  "form": "वशीकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "वशीकृतौ"
-  "shloka_num": "4"
-  "shloka_text": "आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ ॥"
-  "resolved": "false"
-  "comment": ""
-"वशीकुरुते":
-  "form": "वशीकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "वशीकृतौ"
-  "shloka_num": "4"
-  "shloka_text": "आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ ॥"
-  "resolved": "false"
-  "comment": ""
-"वशीभवति":
-  "form": "वशीभवति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "आयत्तौ"
-  "shloka_num": "5"
-  "shloka_text": "परिक्रीणीत इत्येतद् उत्कोचादिवशीकृतौ । आयत्तौ स्यादायतते वशीभवति राध्यति ॥"
-  "resolved": "false"
-  "comment": ""
-"द्रढयति":
-  "form": "द्रढयति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "स्थिरीकृतौ"
-  "shloka_num": "6"
-  "shloka_text": "स्थिरीकृतौ स्थापयति द्रढयत्यपि बृंहति । दधाति धत्ते बिभृते बिभर्ति भरतीति च ॥"
-  "resolved": "false"
-  "comment": ""
-"भुरण्यति":
-  "form": "भुरण्यति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "धारणार्थकाः"
-  "shloka_num": "7"
-  "shloka_text": "धरतीत्यात्मनेऽपि द्वौ भुरण्यति धियत्यपि । मलते धारयति च मल्लते पोषयत्यपि ॥"
-  "resolved": "false"
-  "comment": ""
-"सुवते":
-  "form": "सुवते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "प्रेरणे"
-  "shloka_num": "10"
-  "shloka_text": "सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति कुषुभ्यति ॥"
-  "resolved": "false"
-  "comment": ""
-"क्षिप्यते":
-  "form": "क्षिप्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "प्रेरणे"
-  "shloka_num": "10"
-  "shloka_text": "सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति कुषुभ्यति ॥"
-  "resolved": "false"
-  "comment": ""
-"कुषुभ्यति":
-  "form": "कुषुभ्यति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "प्रेरणे"
-  "shloka_num": "10"
-  "shloka_text": "सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति कुषुभ्यति ॥"
-  "resolved": "false"
-  "comment": ""
-"कुषुभ्यते":
-  "form": "कुषुभ्यते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "प्रेरणे"
-  "shloka_num": "10"
-  "shloka_text": "सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति कुषुभ्यति ॥"
-  "resolved": "false"
-  "comment": ""
-"क्लेवते":
-  "form": "क्लेवते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "सेवायाम्"
-  "shloka_num": "12"
-  "shloka_text": "ईरयत्येलयति च प्रेरणेऽस्यति विस्यति । सेवते जुषते चाऽपि शेवते क्लेवतेऽपि च ॥"
-  "resolved": "false"
-  "comment": ""
-"हेवते":
-  "form": "हेवते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "सेवायाम्"
-  "shloka_num": "13"
-  "shloka_text": "खेवते गेवते चाऽपि ग्लेवते पेवते तथा । मेवते चाऽपि सेवायां भजति श्रयतीति च ॥"
-  "resolved": "false"
-  "comment": ""
-"सजूःकरोति":
-  "form": "सजूःकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "साह्ये"
-  "shloka_num": "15"
-  "shloka_text": "सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि नयत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"सजूःकुरुते":
-  "form": "सजूःकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "साह्ये"
-  "shloka_num": "15"
-  "shloka_text": "सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि नयत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"सत्राकरोति":
-  "form": "सत्राकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "साह्ये"
-  "shloka_num": "15"
-  "shloka_text": "सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि नयत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"सत्राकुरुते":
-  "form": "सत्राकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "साह्ये"
-  "shloka_num": "15"
-  "shloka_text": "सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि नयत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"नृणीते":
-  "form": "नृणीते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "प्रापणे"
-  "shloka_num": "15"
-  "shloka_text": "सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि नयत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"मन्दायते":
-  "form": "मन्दायते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "विलम्बने"
-  "shloka_num": "17"
-  "shloka_text": "मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"समयाकरोति":
-  "form": "समयाकरोति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "विलम्बने"
-  "shloka_num": "17"
-  "shloka_text": "मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"समयाकुरुते":
-  "form": "समयाकुरुते"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "विलम्बने"
-  "shloka_num": "17"
-  "shloka_text": "मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
-"व्याक्षिपति":
-  "form": "व्याक्षिपति"
-  "dhatu_id": "Not Found"
-  "gati": ""
-  "kanda": "द्वितीयकाण्डः"
-  "varga": "क्षत्रियचेष्टावर्गः"
-  "adhikaar": ""
-  "artha": "विलम्बने"
-  "shloka_num": "17"
-  "shloka_text": "मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू ॥"
-  "resolved": "false"
-  "comment": ""
+
+स्वाहाकुरुते:
+  form: स्वाहाकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: हविर्दाने
+  shloka_num: '16'
+  shloka_text: स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति
+    तर्पति ॥
+  resolved: 'false'
+  comment: ''
+वौषट्करोति:
+  form: वौषट्करोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: हविर्दाने
+  shloka_num: '16'
+  shloka_text: स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति
+    तर्पति ॥
+  resolved: 'false'
+  comment: ''
+वौषट्कुरुते:
+  form: वौषट्कुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: हविर्दाने
+  shloka_num: '16'
+  shloka_text: स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति
+    तर्पति ॥
+  resolved: 'false'
+  comment: ''
+वषट्करोति:
+  form: वषट्करोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: हविर्दाने
+  shloka_num: '16'
+  shloka_text: स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति
+    तर्पति ॥
+  resolved: 'false'
+  comment: ''
+वषट्कुरुते:
+  form: वषट्कुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: हविर्दाने
+  shloka_num: '16'
+  shloka_text: स्वाहावौषड्वषड्भ्यश्च करोति कुरुते पदे । प्रीणाति प्रयति द्वावप्यात्मनेऽवति
+    तर्पति ॥
+  resolved: 'false'
+  comment: ''
+धिन्वति:
+  form: धिन्वति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: तर्पणे
+  shloka_num: '17'
+  shloka_text: पृणाति प्रीणयति च जिन्वत्यपि च हिन्वति । धिनोति धिन्वति ध्रायतीत्यादीनि
+    च तर्पणे ॥
+  resolved: 'false'
+  comment: ''
+कुणायति:
+  form: कुणायति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: आमन्त्रणे
+  shloka_num: '18'
+  shloka_text: केतयत्यामन्त्रयते निमन्त्रयत इत्यपि । आमन्त्रणे ग्रामयति कुणयत्यपि
+    पञ्चकम्‌ ॥
+  resolved: 'false'
+  comment: ''
+यामयति:
+  form: यामयति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: परिवेषणे
+  shloka_num: '20'
+  shloka_text: परिवेवेष्टि परिवेविष्टे यामयति त्रयम्‌ । आदयत्यात्मनेऽप्येतद्‌ भोजयत्यादि
+    भोजने ॥
+  resolved: 'false'
+  comment: ''
+मृडयति:
+  form: मृडयति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: तोषणे
+  shloka_num: '23'
+  shloka_text: पृडत्येवं मदयति मृडयत्यादि तोषणे । इज्याऽऽरम्भे दीक्षते च जपतीति जपे
+    तथा ॥
+  resolved: 'false'
+  comment: ''
+जञ्जप्यते:
+  form: जञ्जप्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कुत्सितेजपे
+  shloka_num: '24'
+  shloka_text: जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते
+    व्रतयत्यपि ॥
+  resolved: 'false'
+  comment: ''
+जञ्जप्ति:
+  form: जञ्जप्ति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कुत्सितेजपे
+  shloka_num: '24'
+  shloka_text: जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते
+    व्रतयत्यपि ॥
+  resolved: 'false'
+  comment: ''
+जञ्जपीति:
+  form: जञ्जपीति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कुत्सितेजपे
+  shloka_num: '24'
+  shloka_text: जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते
+    व्रतयत्यपि ॥
+  resolved: 'false'
+  comment: ''
+लङ्‍घते:
+  form: लङ्‍घते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: वैश्यचेष्टावर्गः
+  adhikaar: ''
+  artha: शोषे
+  shloka_num: '7'
+  shloka_text: आश्यायते शुण्ठयति लङ्घतेऽप्यथ वर्षति । उनत्ति शीकते शर्धत्यपि मर्धति
+    सिञ्चति ॥
+  resolved: 'false'
+  comment: ''
+व्रतयति:
+  form: व्रतयति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: अभुक्तौ
+  shloka_num: '24'
+  shloka_text: जञ्जप्यते तु जञ्जप्ति कुत्सिते जञ्जपीति च । अभुक्तौ तूपवसति लङ्घते
+    व्रतयत्यपि ॥
+  resolved: 'false'
+  comment: ''
+तपस्यति:
+  form: तपस्यति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: तपःकृतौ
+  shloka_num: '25'
+  shloka_text: तपस्यति श्राम्यति च तप्यते च तपःकृतौ । मुण्डति मुण्डयति च मौण्ड्ये
+    वापयतीति च ॥
+  resolved: 'false'
+  comment: ''
+मद्राकरोति:
+  form: मद्राकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: मौण्ड्ये
+  shloka_num: '26'
+  shloka_text: मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी
+    ॥
+  resolved: 'false'
+  comment: ''
+मद्राकुरुते:
+  form: मद्राकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: मौण्ड्ये
+  shloka_num: '26'
+  shloka_text: मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी
+    ॥
+  resolved: 'false'
+  comment: ''
+भद्राकरोति:
+  form: भद्राकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: मौण्ड्ये
+  shloka_num: '26'
+  shloka_text: मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी
+    ॥
+  resolved: 'false'
+  comment: ''
+भद्राकुरुते:
+  form: भद्राकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: मौण्ड्ये
+  shloka_num: '26'
+  shloka_text: मद्राकरोत्यात्मनेऽपि द्वयं भद्राकरोति च । उपेक्षत उदास्ते च पदे माध्यस्थ्यवाचिनी
+    ॥
+  resolved: 'false'
+  comment: ''
+विरमतिविरमते:
+  form: विरमतिविरमते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: वैराग्ये
+  shloka_num: '27'
+  shloka_text: स्युर्विरज्यत्युपरमत्यात्मने विरमत्यमी । उपशाम्यति वैराग्ये मोक्षते
+    च मुमुक्षते ॥
+  resolved: 'false'
+  comment: ''
+सन्न्यस्यति:
+  form: सन्न्यस्यति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: सन्न्यासे
+  shloka_num: '28'
+  shloka_text: परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये
+    मुच्यते चाऽपवृज्यते ॥
+  resolved: 'false'
+  comment: ''
+सन्न्यस्यते:
+  form: सन्न्यस्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: सन्न्यासे
+  shloka_num: '28'
+  shloka_text: परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये
+    मुच्यते चाऽपवृज्यते ॥
+  resolved: 'false'
+  comment: ''
+ब्रह्मीभवति:
+  form: ब्रह्मीभवति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कैवल्ये
+  shloka_num: '28'
+  shloka_text: परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये
+    मुच्यते चाऽपवृज्यते ॥
+  resolved: 'false'
+  comment: ''
+मुच्यते:
+  form: मुच्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कैवल्ये
+  shloka_num: '28'
+  shloka_text: परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये
+    मुच्यते चाऽपवृज्यते ॥
+  resolved: 'false'
+  comment: ''
+अपवृज्यते:
+  form: अपवृज्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: ब्रह्मचेष्टावर्गः
+  adhikaar: ''
+  artha: कैवल्ये
+  shloka_num: '28'
+  shloka_text: परिव्रजति सन्न्यासे सन्न्यस्यत्यात्मनेऽप्यदः । ब्रह्मीभवति कैवल्ये
+    मुच्यते चाऽपवृज्यते ॥
+  resolved: 'false'
+  comment: ''
+वशयति:
+  form: वशयति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: वशीकृतौ
+  shloka_num: '4'
+  shloka_text: आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ
+    ॥
+  resolved: 'false'
+  comment: ''
+वशीकरोति:
+  form: वशीकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: वशीकृतौ
+  shloka_num: '4'
+  shloka_text: आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ
+    ॥
+  resolved: 'false'
+  comment: ''
+वशीकुरुते:
+  form: वशीकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: वशीकृतौ
+  shloka_num: '4'
+  shloka_text: आवर्जयति वशयत्यपि राधयतीति च । वशीकरोति सङ्गृह्णात्यात्मने द्वौ वशीकृतौ
+    ॥
+  resolved: 'false'
+  comment: ''
+वशीभवति:
+  form: वशीभवति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: आयत्तौ
+  shloka_num: '5'
+  shloka_text: परिक्रीणीत इत्येतद् उत्कोचादिवशीकृतौ । आयत्तौ स्यादायतते वशीभवति राध्यति
+    ॥
+  resolved: 'false'
+  comment: ''
+द्रढयति:
+  form: द्रढयति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: स्थिरीकृतौ
+  shloka_num: '6'
+  shloka_text: स्थिरीकृतौ स्थापयति द्रढयत्यपि बृंहति । दधाति धत्ते बिभृते बिभर्ति
+    भरतीति च ॥
+  resolved: 'false'
+  comment: ''
+भुरण्यति:
+  form: भुरण्यति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: धारणार्थकाः
+  shloka_num: '7'
+  shloka_text: धरतीत्यात्मनेऽपि द्वौ भुरण्यति धियत्यपि । मलते धारयति च मल्लते पोषयत्यपि
+    ॥
+  resolved: 'false'
+  comment: ''
+सुवते:
+  form: सुवते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: प्रेरणे
+  shloka_num: '10'
+  shloka_text: सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति
+    कुषुभ्यति ॥
+  resolved: 'false'
+  comment: ''
+क्षिप्यते:
+  form: क्षिप्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: प्रेरणे
+  shloka_num: '10'
+  shloka_text: सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति
+    कुषुभ्यति ॥
+  resolved: 'false'
+  comment: ''
+कुषुभ्यति:
+  form: कुषुभ्यति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: प्रेरणे
+  shloka_num: '10'
+  shloka_text: सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति
+    कुषुभ्यति ॥
+  resolved: 'false'
+  comment: ''
+कुषुभ्यते:
+  form: कुषुभ्यते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: प्रेरणे
+  shloka_num: '10'
+  shloka_text: सन्देशे वादयति च सन्दिशत्यात्मनेऽप्यदः । सुवति क्षिप्यति प्रेरयतीरति
+    कुषुभ्यति ॥
+  resolved: 'false'
+  comment: ''
+क्लेवते:
+  form: क्लेवते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: सेवायाम्
+  shloka_num: '12'
+  shloka_text: ईरयत्येलयति च प्रेरणेऽस्यति विस्यति । सेवते जुषते चाऽपि शेवते क्लेवतेऽपि
+    च ॥
+  resolved: 'false'
+  comment: ''
+हेवते:
+  form: हेवते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: सेवायाम्
+  shloka_num: '13'
+  shloka_text: खेवते गेवते चाऽपि ग्लेवते पेवते तथा । मेवते चाऽपि सेवायां भजति श्रयतीति
+    च ॥
+  resolved: 'false'
+  comment: ''
+सजूःकरोति:
+  form: सजूःकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: साह्ये
+  shloka_num: '15'
+  shloka_text: सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि
+    नयत्यमू ॥
+  resolved: 'false'
+  comment: ''
+सजूःकुरुते:
+  form: सजूःकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: साह्ये
+  shloka_num: '15'
+  shloka_text: सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि
+    नयत्यमू ॥
+  resolved: 'false'
+  comment: ''
+सत्राकरोति:
+  form: सत्राकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: साह्ये
+  shloka_num: '15'
+  shloka_text: सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि
+    नयत्यमू ॥
+  resolved: 'false'
+  comment: ''
+सत्राकुरुते:
+  form: सत्राकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: साह्ये
+  shloka_num: '15'
+  shloka_text: सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि
+    नयत्यमू ॥
+  resolved: 'false'
+  comment: ''
+नृणीते:
+  form: नृणीते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: प्रापणे
+  shloka_num: '15'
+  shloka_text: सजूःकरोत्यात्मनेऽपि साह्ये सत्राकरोति च । नृणाति लम्भयति च वहत्यपि
+    नयत्यमू ॥
+  resolved: 'false'
+  comment: ''
+मन्दायते:
+  form: मन्दायते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: विलम्बने
+  shloka_num: '17'
+  shloka_text: मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू
+    ॥
+  resolved: 'false'
+  comment: ''
+समयाकरोति:
+  form: समयाकरोति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: विलम्बने
+  shloka_num: '17'
+  shloka_text: मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू
+    ॥
+  resolved: 'false'
+  comment: ''
+समयाकुरुते:
+  form: समयाकुरुते
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: विलम्बने
+  shloka_num: '17'
+  shloka_text: मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू
+    ॥
+  resolved: 'false'
+  comment: ''
+व्याक्षिपति:
+  form: व्याक्षिपति
+  dhatu_id: Not Found
+  gati: ''
+  kanda: द्वितीयकाण्डः
+  varga: क्षत्रियचेष्टावर्गः
+  adhikaar: ''
+  artha: विलम्बने
+  shloka_num: '17'
+  shloka_text: मन्दायते शोठति च लुण्ठत्यपि विलम्बने । द्वावात्मनेऽपि समयाकरोति व्याक्षिपत्यमू
+    ॥
+  resolved: 'false'
+  comment: ''

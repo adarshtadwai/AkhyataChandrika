@@ -424,6 +424,12 @@ def yaml_to_json(yaml_file, varga_name=None, prevCnt=0 ):
                                     if found:
                                         pratyaya = pratyaya_from_mapping
 
+                                # Check for chandas marker and remove it from form
+                                is_chandas = '(छ)' in form or '(छ)' in form
+                                if is_chandas:
+                                    # Remove (छ) marker from form
+                                    form = form.replace('(छ)', '').replace('(छ)', '').strip()
+
                                 # Build entry dict
                                 entry_dict = {
                                     "form": form,
@@ -432,6 +438,9 @@ def yaml_to_json(yaml_file, varga_name=None, prevCnt=0 ):
                                 }
                                 if pratyaya:
                                     entry_dict["pratyaya"] = pratyaya
+                                # Add type field for chandas forms
+                                if is_chandas:
+                                    entry_dict["type"] = "chandas"
 
                                 verb_block["entries"].append(entry_dict)
 
@@ -540,6 +549,12 @@ def yaml_to_json(yaml_file, varga_name=None, prevCnt=0 ):
                         if found:
                             pratyaya = pratyaya_from_mapping
 
+                    # Check for chandas marker and remove it from form
+                    is_chandas = '(छ)' in form or '(छ)' in form
+                    if is_chandas:
+                        # Remove (छ) marker from form
+                        form = form.replace('(छ)', '').replace('(छ)', '').strip()
+
                     # Build entry dict
                     entry_dict = {
                         "form": form,
@@ -548,6 +563,9 @@ def yaml_to_json(yaml_file, varga_name=None, prevCnt=0 ):
                     }
                     if pratyaya:
                         entry_dict["pratyaya"] = pratyaya
+                    # Add type field for chandas forms
+                    if is_chandas:
+                        entry_dict["type"] = "chandas"
 
                     verb_block["entries"].append(entry_dict)
 
