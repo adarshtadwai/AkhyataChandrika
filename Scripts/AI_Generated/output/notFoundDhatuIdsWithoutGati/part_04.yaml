@@ -1,7 +1,7 @@
 प्रादुःकरोति:
   form: प्रादुःकरोति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 08.0010
+  gati: 'प्र'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -9,12 +9,12 @@
   shloka_num: '25'
   shloka_text: व्याख्याति स्पष्टयति च व्यनक्ति व्यञ्जयत्यपि । करोति प्रादुराविर्भ्यां
     विवृणोत्यात्मनेऽप्ययम्‌ ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'प्र + अद्'
 आविष्करोति:
   form: आविष्करोति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 08.0010
+  gati: 'आ+वि'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -22,12 +22,12 @@
   shloka_num: '25'
   shloka_text: व्याख्याति स्पष्टयति च व्यनक्ति व्यञ्जयत्यपि । करोति प्रादुराविर्भ्यां
     विवृणोत्यात्मनेऽप्ययम्‌ ॥
-  resolved: 'false'
+  resolved: 'true '
   comment: ''
 प्रादुःकुरुते:
   form: प्रादुःकुरुते
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 08.0010
+  gati: 'प्र+अद्'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -35,12 +35,12 @@
   shloka_num: '25'
   shloka_text: व्याख्याति स्पष्टयति च व्यनक्ति व्यञ्जयत्यपि । करोति प्रादुराविर्भ्यां
     विवृणोत्यात्मनेऽप्ययम्‌ ॥
-  resolved: 'false'
+  resolved: 'true'
   comment: ''
 आविष्कुरुते:
   form: आविष्कुरुते
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id:08.0010  
+  gati: 'आ +वि'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -48,12 +48,12 @@
   shloka_num: '25'
   shloka_text: व्याख्याति स्पष्टयति च व्यनक्ति व्यञ्जयत्यपि । करोति प्रादुराविर्भ्यां
     विवृणोत्यात्मनेऽप्ययम्‌ ॥
-  resolved: 'false'
+  resolved: 'true'
   comment: ''
 प्रश्नयति:
   form: प्रश्नयति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 06.0149 
+  gati: 'प्र'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -61,12 +61,12 @@
   shloka_num: '28'
   shloka_text: अनुयुङ्क्ते प्रश्नयति प्रश्ने ज्ञीप्सति पृच्छति । आपृच्छते तु यात्रर्थे
     विप्रश्ने राध्यतीक्षते ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'प्रच्छ्'
 आपृच्छते:
   form: आपृच्छते
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 06.0149 
+  gati: 'आ'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -74,12 +74,12 @@
   shloka_num: '28'
   shloka_text: अनुयुङ्क्ते प्रश्नयति प्रश्ने ज्ञीप्सति पृच्छति । आपृच्छते तु यात्रर्थे
     विप्रश्ने राध्यतीक्षते ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'पृच्छ्'
 उत्तरयति:
   form: उत्तरयति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 10.0379
+  gati: 'उद्'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -87,12 +87,12 @@
   shloka_num: '29'
   shloka_text: आभिमुख्येन वचने प्रवदत्यभिवक्ति च । प्रतिवक्त्युत्तरयति प्रत्याहेत्यादयोऽपि
     च ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'वद्'
 निराचष्टे:
   form: निराचष्टे
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 02.0007
+  gati: 'निर्+आ'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -100,12 +100,12 @@
   shloka_num: '30'
   shloka_text: अपह्नुतेऽपजानीते निह्नुतेऽपलपत्यमी । अपह्नवे निराचष्टे प्रत्याचष्टे
     निरस्यति ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'चक्ष'
 प्रत्याचष्टे:
   form: प्रत्याचष्टे
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 02.0007
+  gati: 'प्रति+आ'
   kanda: द्वितीयकाण्डः
   varga: मनुष्यचेष्टावर्गः
   adhikaar: ''
@@ -113,12 +113,12 @@
   shloka_num: '36'
   shloka_text: वृणक्ति वर्जयति च वृङ्क्ते युङ्गति जुङ्गति  । वर्जने राखति प्रत्याचष्टे
     वर्जति वुङ्गति ॥
-  resolved: 'false'
+  resolved: 'true'
   comment: ''
 प्रत्यादिशति:
   form: प्रत्यादिशति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 06.0006
+  gati: 'प्रति+आ'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -126,12 +126,12 @@
   shloka_num: '31'
   shloka_text: प्रत्यादिशत्यपनयत्यपोहति परास्यति । पराणुदति चाऽपास्यत्यात्मने स्युर्व्युदस्यति
     ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'दिश्'
 प्रत्यादिशते:
   form: प्रत्यादिशते
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 06.0006
+  gati: 'प्रति+आ'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -139,12 +139,12 @@
   shloka_num: '31'
   shloka_text: प्रत्यादिशत्यपनयत्यपोहति परास्यति । पराणुदति चाऽपास्यत्यात्मने स्युर्व्युदस्यति
     ॥
-  resolved: 'false'
+  resolved: 'true'
   comment: ''
 व्युदस्यति:
   form: व्युदस्यति
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 04.0106
+  gati: 'वि + उद्'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -152,12 +152,12 @@
   shloka_num: '31'
   shloka_text: प्रत्यादिशत्यपनयत्यपोहति परास्यति । पराणुदति चाऽपास्यत्यात्मने स्युर्व्युदस्यति
     ॥
-  resolved: 'false'
-  comment: ''
+  resolved: 'true'
+  comment: 'अस्'
 व्युदस्यते:
   form: व्युदस्यते
-  dhatu_id: Not Found
-  gati: ''
+  dhatu_id: 01.1029
+  gati: 'वि + उद्'
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
   adhikaar: ''
@@ -165,7 +165,7 @@
   shloka_num: '31'
   shloka_text: प्रत्यादिशत्यपनयत्यपोहति परास्यति । पराणुदति चाऽपास्यत्यात्मने स्युर्व्युदस्यति
     ॥
-  resolved: 'false'
+  resolved: 'true'
   comment: ''
 अपाकरोति:
   form: अपाकरोति
