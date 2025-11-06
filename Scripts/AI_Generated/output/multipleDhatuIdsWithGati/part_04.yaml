@@ -2,13 +2,14 @@
 # Format: Each entry shows the verb form with its multiple dhatu_ids
 # Manually edit this file to select the correct dhatu_id for each case
 # After editing, run the backport script to sync changes back to original YAML files
-# ENTRIES TO CORRECT: 6
+# ENTRIES TO CORRECT: 2
 # This is part 4 of 10 - Assigned for proofreading
+
 
 
 'अपोहति (with gati: अप)':
   form: अपोहति
-  dhatu_ids: 01.0084
+  dhatu_ids: 1.0084
   gati: अप
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
@@ -21,7 +22,7 @@
   comment: 'changed धातु id  '
 'पराणुदति (with gati: परा)':
   form: पराणुदति
-  dhatu_ids: 06.0162
+  dhatu_ids: 6.0162
   gati: परा
   kanda: प्रथमकाण्डः
   varga: वाक्क्रियावर्गः
@@ -32,54 +33,3 @@
     ॥
   resolved: 'true '
   comment: 'both the नुद् धातु can have similar meaning '
-'उपवदते (with gati: उप)':
-  form: उपवदते
-  dhatu_ids: '10.0379'
-  gati: उप
-  kanda: प्रथमकाण्डः
-  varga: वाक्क्रियावर्गः
-  adhikaar: ''
-  artha: सान्त्वने
-  shloka_num: '33'
-  shloka_text: उपमन्त्रयते चोपवदते सान्त्वयत्यपि । चपत्युपच्छन्दयति सामयत्यपि सान्त्वने
-    ॥
-  resolved: 'true'
-  comment:'' 
-'अनुनयति (with gati: अनु)':
-  form: अनुनयते
-  dhatu_ids: '01.0552'
-  gati: अनु
-  kanda: प्रथमकाण्डः
-  varga: वाक्क्रियावर्गः
-  adhikaar: ''
-  artha: सान्त्वने
-  shloka_num: '34'
-  shloka_text: सप्ताऽनुनयतीत्येतदात्मनेऽप्यथ सूचने । सूचयत्यप्युत्कुरते त्रयः पिशुनयत्यमी
-    ॥
-  resolved: 'true'
-  comment: 'i chose नय् '
-'प्रसाधयति (with gati: प्र)':
-  form: प्रसाधयति
-  dhatu_ids: 04.0089
-  gati: प्र
-  kanda: द्वितीयकाण्डः
-  varga: मनुष्यचेष्टावर्गः
-  adhikaar: ''
-  artha: भूषणार्थकाः
-  shloka_num: '10'
-  shloka_text: परिष्करोत्यात्मनेऽलङकरोति द्वे च मङ्कते । प्रसाधयत्यथोत्तंसत्यवतंसेऽवतंसति॥
-  resolved: 'true'
-  comment: ''
-'प्रतिमुञ्चते (with gati: प्रति)':
-  form: प्रतिमुञ्चते
-  dhatu_ids: 06.0166
-  gati: प्रति
-  kanda: द्वितीयकाण्डः
-  varga: मनुष्यचेष्टावर्गः
-  adhikaar: ''
-  artha: भूषाद्यामोचने
-  shloka_num: '11'
-  shloka_text: प्रतिमुञ्चत्यपिनह्यत्यामुञ्चति पिनह्यति। भूषाद्यामोचने चत्वार्यूहनीयानि
-    चात्मने॥
-  resolved: 'true'
-  comment: 'प्रति + मुच् '
